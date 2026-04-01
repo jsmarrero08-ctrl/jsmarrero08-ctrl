@@ -1,33 +1,38 @@
- Jonathan Sanchez
+# Jonathan Sanchez
 
-Junior Data Professional focused on SQL, Excel reporting, Power BI dashboards, and relational database analysis.
+Junior Data Analyst focused on SQL, Excel, Power BI, and Python.
+
+I’ve been working on personal projects where I clean data, build dashboards, and explore trends to better understand how data behaves in real situations. I enjoy working with structured data, writing queries, and turning messy data into something useful.
 
 ---
 
 ## Technical Skills
 
 - SQL (MySQL, SQL Server)
-- Microsoft Excel (Pivot Tables, Structured Reporting)
+- Excel (Pivot Tables, Reporting)
 - Power BI (DAX, Data Modeling)
-- Python (Pandas – Data Analysis)
-- Data Validation & Operational Reporting
+- Python (Pandas)
+- Data validation
+- Reporting
 
 ---
 
-## Featured Projects
+## Projects
 
 ### SQL Relational Database & Reporting Project
-Designed a relational database and developed structured SQL queries using multi-table JOIN operations and GROUP BY aggregations to generate client-level reports.
+Built a database and wrote queries using JOIN and GROUP BY to organize and summarize data.
 
 ### Amazon Pricing & Discount Analysis (Python)
-Performed data cleaning and exploratory analysis to evaluate pricing trends, engineer discount variables, and identify category-level patterns.
+Explored pricing and discount patterns using Python and Pandas to understand how categories behave differently.
 
 ### Amazon Pricing Dashboard (Power BI)
-Built an interactive dashboard using DAX measures and dynamic filtering to analyze pricing and discount performance.
+Created a dashboard to visualize pricing and discount trends using filters and DAX.
 
 ### PHP & MySQL Record Management System
-Developed a web-based CRUD application connected to a relational database to manage structured records and backend data operations.
+Built a web application connected to a database to manage records (add, edit, delete, view).
 
 ---
 
-Open to entry-level opportunities in Data Analysis, Reporting, Data Support, and Business Intelligence.
+## About Me
+
+Currently studying Computer Science at Inter American University of Puerto Rico. I’m interested in opportunities related to data analysis, reporting, or data support where I can continue learning and gaining experience.
